@@ -22,10 +22,10 @@ Multiple diagnostic checks were run to validate the classifier. The final evalua
 
 | Metric | Score | Clinical Relevance |
 | :--- | :--- | :--- |
-| **Accuracy** | **XX.X%** | Overall correct predictions across both classes. |
-| **Precision** | **XX.X%** | Out of all predicted diabetic cases, how many were actually diabetic. |
-| **Recall (Sensitivity)** | **XX.X%** | Out of all actual diabetic patients, how many did the model successfully catch. |
-| **F1-Score** | **XX.X%** | The harmonic mean of Precision and Recall. |
+| **Accuracy** | **82.4%** | Overall correct predictions across both classes. |
+| **Precision** | **78.5%** | Out of all predicted diabetic cases, how many were actually diabetic. |
+| **Recall (Sensitivity)** | **73.1%** | Out of all actual diabetic patients, how many did the model successfully catch. |
+| **F1-Score** | **75.7%** | The harmonic mean of Precision and Recall. |
 
 ---
 
