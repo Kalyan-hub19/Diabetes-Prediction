@@ -41,8 +41,9 @@ input_data = (5, 166, 72, 19, 175, 25.8, 0.587, 51)
 >> [1]
 >> "The person is diabetic"
 >> [0] "The person has no diabetics"
-
-🚀 How to Run the Project Locally
+---
+### 🚀 How to Run the Project Locally
+---
 1.Clone the Repository:
 git clone [https://github.com/Kalyan-hub19/Diabetes-Prediction.git](https://github.com/Kalyan-hub19/Diabetes-Prediction.git)
 cd Diabetes-Prediction
